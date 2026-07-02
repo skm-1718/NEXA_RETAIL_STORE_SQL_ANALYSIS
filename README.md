@@ -7,7 +7,8 @@ Analyzed NexaRetail’s retail SQL database to solve 10 business problems relate
 •	Analyze NexaRetail’s 2023 retail transaction database using SQL to answer 10 business questions related to revenue, store performance, product performance, sales targets, and growth trends.
 
 •	Generate precise, data-backed insights for business decision-making rather than building a visual dashboard.
-Project Goals
+
+# PROJECT GOALS
 
 •	Measure overall revenue performance across quarters and months.
 
@@ -18,6 +19,7 @@ Project Goals
 •	Detect declining products and assess revenue concentration risk.
 
 •	Recommend actions to improve sales, assortment, and operational focus.
+
 
 # BUSINESS QUESTIONS, RESULTS AND RECOMMENDATIONS
 
