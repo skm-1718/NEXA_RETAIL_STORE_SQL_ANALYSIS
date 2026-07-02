@@ -19,7 +19,7 @@ Project Goals
 
 •	Recommend actions to improve sales, assortment, and operational focus.
 
-Business Questions, Results, and Recommendations
+# BUSINESS QUESTIONS, RESULTS AND RECOMMENDATIONS
 
 Q1. What is the total revenue for 2023, broken down by quarter?
 
