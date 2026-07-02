@@ -2,7 +2,7 @@
 
 Analyzed NexaRetail’s retail SQL database to solve 10 business problems related to revenue, store performance, category efficiency, target achievement, declining products, and revenue concentration. Delivered SQL queries, result analysis, and business recommendations to support data-driven decision-making.
 
-Project Objective
+# PROJECT OBJECTIVE
 
 •	Analyze NexaRetail’s 2023 retail transaction database using SQL to answer 10 business questions related to revenue, store performance, product performance, sales targets, and growth trends.
 
@@ -23,13 +23,31 @@ Business Questions, Results, and Recommendations
 
 Q1. What is the total revenue for 2023, broken down by quarter?
 
-Result: Q1 ₹52,566,890 | Q2 ₹51,705,690 | Q3 ₹52,938,370 | Q4 ₹52,551,140
+Result:
+
+Q1 ₹52,566,890 
+
+Q2 ₹51,705,690 
+
+Q3 ₹52,938,370 
+
+Q4 ₹52,551,140
 
 Recommendation: Revenue remained stable across all four quarters, with Q3 being the strongest quarter. NexaRetail can use this pattern to plan promotions, inventory, and staffing around peak-performing periods.
 
 Q2. Which are the top 5 stores by total revenue? Are they all in the same city?
 
-Result: Top 5 stores: Pawar General (Nagpur), More Supermarket Viman Nagar (Surat), Jadhav Store (Nagpur), D-Mart Kothrud (Surat), Mehta Kirana (Ahmedabad).
+Result: Top 5 stores:
+
+Pawar General (Nagpur), 
+
+More Supermarket Viman Nagar (Surat), 
+
+Jadhav Store (Nagpur), 
+
+D-Mart Kothrud (Surat), 
+
+Mehta Kirana (Ahmedabad).
 
 Recommendation: Top-performing stores are spread across multiple cities rather than concentrated in one market, indicating a healthy geographic revenue spread. Management should study the common success factors of these stores and replicate them in lower-performing locations.
 
@@ -59,7 +77,11 @@ Recommendation: Surat demonstrates stronger customer spending per order, while M
 
 Q7. Are Kirana stores or Supermarkets generating more revenue per store?
 
-Result: Kirana: ₹5,234,148.33 per store | Supermarket: ₹5,273,764.00 per store.
+Result: 
+
+Kirana: ₹5,234,148.33 per store 
+
+Supermarket: ₹5,273,764.00 per store.
 
 Recommendation: Supermarkets slightly outperform Kirana stores in revenue per store. This suggests that supermarket format may be marginally more productive and can be prioritized in future expansion and merchandising decisions.
 
